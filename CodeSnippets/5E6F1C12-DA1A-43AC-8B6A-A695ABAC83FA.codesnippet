@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sw_iboutlet</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>@IBOutlet private weak var &lt;#variable#&gt;: &lt;#UIKit.Class#&gt;! {
+    didSet {
+
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5E6F1C12-DA1A-43AC-8B6A-A695ABAC83FA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Dedine IBOutlet Block with didSet</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift IBOutlet Block</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
